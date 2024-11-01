@@ -85,4 +85,17 @@ body {
 
  }
 
- 
+ footer {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    position: relative;
+    bottom: 5;
+    width: 100%;
+
+ }
+
+ footer-text {
+    margin: 0;
+ }
