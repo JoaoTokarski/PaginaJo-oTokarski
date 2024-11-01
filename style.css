@@ -32,4 +32,57 @@ body {
 
  }
 
- nav-list {}
+ nav-list {
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+    display: flex;
+    justify-content: center;
+
+ }
+
+ nav-item {
+    margin: 0 20px;
+
+ }
+
+ nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 20px.25px;
+    display: block;
+
+ }
+
+ nav-link: :hover {
+    background-color: #000080;
+
+ }
+
+ main-content {
+    padding: 20px;
+    background-color: white;
+    margin: 40px auto;
+    max-width: 1000px;
+    border-radius: 40px;
+    box-shadow: 00 10px rgba(2, 1, 5, 0.1);
+
+ }
+
+ section {
+    margin-bottom: 40px;
+
+ }
+
+ section-title {
+    color: #00008b;
+
+ }
+
+ section-text {
+    font-size: 16px;
+    line-height: 2.6;
+
+ }
+
+ 
